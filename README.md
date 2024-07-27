@@ -1,5 +1,8 @@
 ## The offical repo of DIVDB
 
+The wiki-retrieve dataset is currently available.
+
+The code of DIVDB will be released later.
 <!--
 **DCVDB/DCVDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
